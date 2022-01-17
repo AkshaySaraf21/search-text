@@ -1,0 +1,10 @@
+.container {
+  & > * {
+    margin-bottom: 10px;
+  }
+
+  .id {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+}
